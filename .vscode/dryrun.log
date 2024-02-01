@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/skfla36/pro1'
+g++ -std=c++11 -g -o run NameBST.cpp MemberQueue.cpp TermsBST.cpp TermsList.cpp Manager.cpp main.cpp NameBST.h MemberQueue.h TermsBST.h NameBSTNode.h MemberQueueNode.h TermsBSTNode.h TermsList.h Manager.h TermsListNode.h
+make: Leaving directory '/home/skfla36/pro1'
+ 
